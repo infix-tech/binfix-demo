@@ -1,0 +1,6 @@
+##########################
+### Binfix Config file ###
+##########################
+
+# If this file is present in the root of your repository, it will enable Binfix for that repository.
+# It will contain configurations for Binfix, e.g. enabling features or excluding files.
